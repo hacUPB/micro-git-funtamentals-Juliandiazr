@@ -36,7 +36,7 @@ Al usar este comando lo que va a hacer es que nos muestra el contenido de un dir
  ls -al
  ```
 
-![Ejemplo ls y ls -al](<../images/LS LS -AL.png>)
+![Ejemplo Comando ls y ls -al](<../images/LS LS -AL.png>)
 
 3. Cambiar de Directorio 
 En este caso para acceder un directorio o archivo que se desea, utilizamos el comando **cd nombre_del_directorio** y nos llevará al directorio solicitado, hay algunas "extensiones" que al ejecutarlas harán diferentes acciones de navegación.
@@ -47,7 +47,7 @@ En este caso para acceder un directorio o archivo que se desea, utilizamos el co
  ls -al
  ```
 
-![alt text](../images/CD.png)
+![Comando ls](../images/CD.png)
 
 En este ejemplo lo que se hizo fue ingresar al directorio de consola y tambbien mostrar los archivos.
 

@@ -19,13 +19,13 @@ hizo, los comandos que se utiliza para la configuración inicial son los siguien
  ```
 
 
-![alt text](../images/configuracioninicial.png)
+![Git configuración](../images/configuracioninicial.png)
 Al realizar ese comando en este caso en la aplicacion terminal se hace el siguiente comando para 
 verificar que la configuración haya sido la correcta:
 **git config --list**
 
 Lo podemos ver en la siguiente imagen:
-![alt text](../images/configuracioninicial.png)
+![git ejemplo](../images/configuracioninicial.png)
 
 ## 2. Creación del Repositorio
 Para poder crear u repositorio lo que debemos hacer es primeramente crear un directorio y una vez creado se debe entrar ahí y se ejecuta el siguiente comando **git init**

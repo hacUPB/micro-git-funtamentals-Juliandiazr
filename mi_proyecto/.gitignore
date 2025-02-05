@@ -1,0 +1,3 @@
+El archivo .gitignore es utilizado en los repositorios de Github para especificar archivos o carpetas que deben ser ignorados en los repositorios 
+y en el sistema de control de versiones ya sea git add o git commit -m y solo se puede visualizar mediante el comando ls -al que muestra todas las 
+carpetas y archivos ocultos.

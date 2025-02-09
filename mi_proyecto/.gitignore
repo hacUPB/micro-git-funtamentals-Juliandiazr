@@ -1,0 +1,3 @@
+Este tipo de archivo se utiliza para ocultar los archivos que no queremos que se muestren en el repositorio 
+.DS_Store 
+/docs/.DS_Store

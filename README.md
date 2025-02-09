@@ -2,3 +2,9 @@
 # Bitácora
 Nombre del estudiante: Julian Diaz   
 Id.:000466886
+
+|CONTENIDO DE LOS DOCUMENTOS DEL REPOSITORIO:|
+|--------------|
+|[Repositorio Local](mi_proyecto/docs/repositorio_local.md)|
+|[Repositorio Remoto](mi_proyecto/docs/repositorio_remoto.md)|
+|[Uso de la Consola](mi_proyecto/docs/uso_consola.md)|
